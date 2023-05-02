@@ -891,3 +891,11 @@ body {
   color: var(--bgr-col2);
 }/*# sourceMappingURL=main.css.map */
 
+.logo-social {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
