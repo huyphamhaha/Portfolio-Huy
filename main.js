@@ -133,7 +133,7 @@ const projects = [
         link:'https://huyphamhaha.github.io/InfoAboutHuy/',
     },
     {
-        filter: 'web application',
+        filter: 'web app',
         name: 'DEGREY landingpage clone',
         dsc: ['Made with CSS and love'],
         img:'./img/projects/degrey.png',
