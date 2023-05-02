@@ -25,22 +25,22 @@ themeBtn.addEventListener('click', () => {
 const aboutList = [
     {
         heading: 'Education',
-        dsc: 'Senior student at Hanoi University of Science and Technology with CPA 3.32/4',
+        dsc: 'Học sinh trường THCS Đào Duy Anh đang  thi tuyển sinh nhức nhức cái đầu',
         img: './img/about/school.jpg'
     },
     {
         heading: 'Programming',
-        dsc: 'I have one year of experience in coding with HTML, CSS and Javascript',
+        dsc: 'Đang học lập trình tại F8edu mảng css/html và javsscript',
         img: './img/about/code.jpg'
     },
     {
         heading: 'Habits',
-        dsc: 'I love drawing and sketching things with my tablet in my spare time',
+        dsc: 'Bị mê fo4, tên ingame"NSNDPhamHuyy"',
         img: './img/about/draw.jpg'
     },
     {
         heading: 'Other Projects',
-        dsc: 'Beside web developing, i also learn basic Unity and C# to make games',
+        dsc: 'Ngoài làm web, không làm gì cạ',
         img: './img/about/game.jpg'
     }
 ]
@@ -81,10 +81,6 @@ const skills = [
     {
         img: './img/skills/figma.png',
         dsc: 'Figma'
-    },
-    {
-        img: './img/skills/ets.png',
-        dsc: 'Toeic 775'
     }
 ]
 
@@ -117,49 +113,41 @@ const projects = [
         name: 'First Website',
         dsc: ['Very first website clone','Fully responsive'],
         img:'./img/projects/first.png',
-        repo:'https://github.com/Longvu1982/first-website',
-        link:'https://longvu1982.github.io/first-website/',
+        repo:'https://github.com/huyphamhaha/The-band',
+        link:'https://huyphamhaha.github.io/The-band/',
     },
     {
         filter: 'ui/ux',
-        name: 'Shopping Website',
+        name: 'Shoppe clone landing page',
         dsc: ['Shoppee clone UI only','Fully responsive'],
         img:'./img/projects/shopping.png',
-        repo:'https://github.com/Longvu1982/Shopping-Website',
-        link:'https://longvu1982.github.io/Shopping-Website/',
+        repo:'https://github.com/huyphamhaha/Shoppe-F8-Demo',
+        link:'https://huyphamhaha.github.io/Shoppe-F8-Demo/',
     },
     {
         filter: 'ui/ux',
-        name: 'Moon Cake',
+        name: 'Portfolio-1',
         dsc: ['Simple but fun project','Draw with CSS'],
         img:'./img/projects/moon.png',
-        repo:'https://github.com/Longvu1982/Mooncake',
-        link:'https://longvu1982.github.io/Mooncake/',
+        repo:'https://github.com/huyphamhaha/Portfolio-Huy',
+        link:'https://huyphamhaha.github.io/InfoAboutHuy/',
+    },
+    {
+        filter: 'web application',
+        name: 'DEGREY landingpage clone',
+        dsc: ['Made with CSS and love'],
+        img:'./img/projects/degrey.png',
+        repo:'https://github.com/huyphamhaha/DEGREY__CLONE',
+        link:'https://huyphamhaha.github.io/DEGREY__CLONE/',
     },
     {
         filter: 'web app',
         name: 'Music Player',
         dsc: ['Minimal design','Working basic functions'],
         img:'./img/projects/music.png',
-        repo:'https://github.com/Longvu1982/Mini-music-player',
-        link:'https://longvu1982.github.io/Mini-music-player/',
-    },
-    {
-        filter: 'web app',
-        name: 'Digital Clock',
-        dsc: ['Working 3D clock','3D view with mouse'],
-        img:'./img/projects/clock.png',
-        repo:'https://github.com/Longvu1982/Digital-Clock',
-        link:'https://longvu1982.github.io/Digital-Clock/',
-    },
-    {
-        filter: 'web app',
-        name: 'Weather Web',
-        dsc: ['Working weather app','Fully Responsive'],
-        img:'./img/projects/weather.png',
-        repo:'https://github.com/Longvu1982/The-basic-weather-website',
-        link:'https://longvu1982.github.io/The-basic-weather-website/',
-    },
+        repo:'https://github.com/huyphamhaha/Music-Player',
+        link:'https://huyphamhaha.github.io/Music-Player/',
+    }
 ]
 
  // click
