@@ -25,7 +25,7 @@ themeBtn.addEventListener('click', () => {
 const aboutList = [
     {
         heading: 'Education',
-        dsc: 'Học sinh trường THCS Đào Duy Anh đang  thi tuyển sinh nhức nhức cái đầu',
+        dsc: '2018-2022 : THCS Đào Duy Anh 2023-2026 : THPT Nguyễn Chí Thanh',
         img: './img/about/school.jpg'
     },
     {
@@ -35,14 +35,9 @@ const aboutList = [
     },
     {
         heading: 'Habits',
-        dsc: 'Bị mê fo4, tên ingame"NSNDPhamHuyy"',
+        dsc: 'Fo4, Valorant, CSGO',
         img: './img/about/draw.jpg'
     },
-    {
-        heading: 'Other Projects',
-        dsc: 'Ngoài làm web, không làm gì cạ',
-        img: './img/about/game.jpg'
-    }
 ]
 
 $('.about-desciptions').innerHTML = aboutList.map(aboutItem => {
